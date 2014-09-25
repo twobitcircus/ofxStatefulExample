@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>07B79D69-7859-464D-8F74-1BF8638D41FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>statefulExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>22EF5856-245B-473E-B9A4-01D2D8A87539</key>
+		<string>http://rogue-code.googlecode.com/svn/Arduino/libraries/Tone/trunk/examples/DTMFTest</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>of_v0.8.1_osx_release/apps/myApps/statefulExample/statefulExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>22EF5856-245B-473E-B9A4-01D2D8A87539</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>22EF5856-245B-473E-B9A4-01D2D8A87539</key>
+		<string>http://rogue-code.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://rogue-code.googlecode.com/svn/Arduino/libraries/Tone/trunk/examples/DTMFTest/of_v0.8.1_osx_release/apps/myApps/statefulExample/statefulExample.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>22EF5856-245B-473E-B9A4-01D2D8A87539</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>Arduino/libraries/Tone/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>Arduino/libraries/Tone/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>Arduino/libraries/Tone/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>22EF5856-245B-473E-B9A4-01D2D8A87539</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dev</string>
+		</dict>
+	</array>
+</dict>
+</plist>
